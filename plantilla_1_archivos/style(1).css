@@ -1,0 +1,162 @@
+.tnp-subscription {
+	margin: 15px auto; width: 100%; font-size: 13px; display: block; max-width: 500px;
+}
+.tnp-subscription div.tnp-field {
+	padding: 0px; border: 0px currentColor; border-image: none; margin-bottom: 10px;
+}
+.tnp-subscription label {
+	margin: 0px; padding: 5px; color: inherit; line-height: normal; font-size: 14px; font-weight: 700; display: block;
+}
+.tnp-subscription input[type=text] {
+	margin: 0px; padding: 10px; border: 1px rgb(221, 221, 221); border-image: none; width: 100%; height: 50px; color: rgb(68, 68, 68); line-height: normal; font-size: 14px; display: block; box-sizing: border-box; text-shadow: none; background-image: none; background-color: rgb(244, 244, 244);
+}
+.tnp-subscription input[type=email] {
+	margin: 0px; padding: 10px; border: 1px rgb(221, 221, 221); border-image: none; width: 100%; height: 50px; color: rgb(68, 68, 68); line-height: normal; font-size: 14px; display: block; box-sizing: border-box; text-shadow: none; background-image: none; background-color: rgb(244, 244, 244);
+}
+.tnp-subscription input[type=submit] {
+	margin: 0px; padding: 10px; border: 1px rgb(221, 221, 221); border-image: none; width: 100%; height: 50px; color: rgb(68, 68, 68); line-height: normal; font-size: 14px; display: block; box-sizing: border-box; text-shadow: none; background-image: none; background-color: rgb(244, 244, 244);
+}
+.tnp-subscription select {
+	margin: 0px; padding: 10px; border: 1px rgb(221, 221, 221); border-image: none; width: 100%; height: 50px; color: rgb(68, 68, 68); line-height: normal; font-size: 14px; display: block; box-sizing: border-box; text-shadow: none; background-image: none; background-color: rgb(244, 244, 244);
+}
+.tnp-subscription input[type=checkbox] {
+	display: inline; max-width: 20px;
+}
+.tnp-widget input[type=radio] {
+	display: inline; max-width: 20px;
+}
+.tnp-subscription select option {
+	margin-right: 10px;
+}
+.tnp-subscription input.tnp-submit {
+	width: auto; height: auto; color: rgb(255, 255, 255); background-color: rgb(68, 68, 68);
+}
+@media all and (max-width:480px)
+{
+.tnp-subscription input[type=submit] {
+	width: 100%;
+}
+}
+.tnp-profile {
+	font-size: 13px;
+}
+.tnp-profile form .tnp-field {
+	padding: 0px; border: 0px currentColor; border-image: none; margin-bottom: 10px;
+}
+.tnp-profile form .tnp-field label {
+	color: rgb(51, 51, 51); font-size: 14px; display: block;
+}
+.tnp-profile form .tnp-field input[type=text] {
+	margin: 0px; padding: 10px; border-radius: 0px; border: 1px rgb(221, 221, 221); border-image: none; height: auto; color: rgb(68, 68, 68); line-height: normal; font-size: 14px; float: none; display: block; box-sizing: border-box; text-shadow: none; background-image: none; background-color: rgb(244, 244, 244);
+}
+.tnp-profile form .tnp-field input[type=email] {
+	margin: 0px; padding: 10px; border-radius: 0px; border: 1px rgb(221, 221, 221); border-image: none; height: auto; color: rgb(68, 68, 68); line-height: normal; font-size: 14px; float: none; display: block; box-sizing: border-box; text-shadow: none; background-image: none; background-color: rgb(244, 244, 244);
+}
+.tnp-profile form .tnp-field input[type=submit] {
+	margin: 0px; padding: 10px; border-radius: 0px; border: 1px rgb(221, 221, 221); border-image: none; height: auto; color: rgb(68, 68, 68); line-height: normal; font-size: 14px; float: none; display: block; box-sizing: border-box; text-shadow: none; background-image: none; background-color: rgb(244, 244, 244);
+}
+.tnp-profile form .tnp-field textarea {
+	margin: 0px; padding: 10px; border-radius: 0px; border: 1px rgb(221, 221, 221); border-image: none; height: auto; color: rgb(68, 68, 68); line-height: normal; font-size: 14px; float: none; display: block; box-sizing: border-box; text-shadow: none; background-image: none; background-color: rgb(244, 244, 244);
+}
+.tnp-profile form .tnp-field select {
+	margin: 0px; padding: 10px; border-radius: 0px; border: 1px rgb(221, 221, 221); border-image: none; height: auto; color: rgb(68, 68, 68); line-height: normal; font-size: 14px; float: none; display: block; box-sizing: border-box; text-shadow: none; background-image: none; background-color: rgb(244, 244, 244);
+}
+.tnp-profile form input[type=checkbox] {
+	display: inline; max-width: 20px;
+}
+.tnp-profile input[type=radio] {
+	display: inline; max-width: 20px;
+}
+.tnp-profile form .tnp-list-label {
+	margin-left: 15px;
+}
+.tnp-profile form select option {
+	margin-right: 10px;
+}
+.tnp-profile form .tnp-field input[type=submit] {
+	width: auto; height: auto; color: rgb(255, 255, 255); background-color: rgb(68, 68, 68);
+}
+@media all and (max-width:480px)
+{
+.tnp-profile input[type=submit] {
+	width: 100%;
+}
+}
+.tnp-widget {
+	width: 100%; display: block; box-sizing: border-box;
+}
+.tnp-widget .tnp-field {
+	padding: 0px; border: 0px currentColor; border-image: none; margin-bottom: 10px;
+}
+.tnp-widget label {
+	color: inherit; font-size: 14px; display: block;
+}
+.tnp-widget input[type=text] {
+	padding: 10px; border: 1px solid rgb(221, 221, 221); border-image: none; width: 100%; height: auto; color: rgb(68, 68, 68); line-height: normal; font-size: 14px; display: block; box-sizing: border-box; text-shadow: none; background-image: none; background-color: rgb(244, 244, 244);
+}
+.tnp-widget input[type=email] {
+	padding: 10px; border: 1px solid rgb(221, 221, 221); border-image: none; width: 100%; height: auto; color: rgb(68, 68, 68); line-height: normal; font-size: 14px; display: block; box-sizing: border-box; text-shadow: none; background-image: none; background-color: rgb(244, 244, 244);
+}
+.tnp-widget input[type=submit] {
+	padding: 10px; border: 1px solid rgb(221, 221, 221); border-image: none; width: 100%; height: auto; color: rgb(68, 68, 68); line-height: normal; font-size: 14px; display: block; box-sizing: border-box; text-shadow: none; background-image: none; background-color: rgb(244, 244, 244);
+}
+.tnp-widget select {
+	padding: 10px; border: 1px solid rgb(221, 221, 221); border-image: none; width: 100%; height: auto; color: rgb(68, 68, 68); line-height: normal; font-size: 14px; display: block; box-sizing: border-box; text-shadow: none; background-image: none; background-color: rgb(244, 244, 244);
+}
+.tnp-widget input[type=checkbox] {
+	width: auto; display: inline;
+}
+.tnp-widget input[type=radio] {
+	width: auto; display: inline;
+}
+.tnp-widget select option {
+	margin-right: 10px;
+}
+.tnp-widget input.tnp-submit {
+	color: rgb(255, 255, 255); text-shadow: none; background-image: none; background-color: rgb(68, 68, 68);
+}
+.tnp-field input[type='submit'] {
+	position: inherit;
+}
+.tnp-field label {
+	
+}
+.tnp-widget-minimal {
+	width: 100%;
+}
+.tnp-widget-minimal form {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none;
+}
+.tnp-widget-minimal input.tnp-email {
+	padding: 10px; border: 1px rgb(221, 221, 221); border-image: none; width: 100%; color: rgb(68, 68, 68); font-size: 14px; display: inline-block; box-sizing: border-box; background-color: rgb(244, 244, 244);
+}
+.tnp-widget-minimal input.tnp-submit {
+	padding: 10px; border-radius: 0px; border: 1px rgb(221, 221, 221); border-image: none; width: 100%; height: auto; color: rgb(255, 255, 255); line-height: normal; font-size: 14px; display: inline-block; box-sizing: border-box; text-shadow: none; background-image: none; background-color: rgb(68, 68, 68);
+}
+.tnp-subscription-minimal {
+	width: 100%; box-sizing: border-box;
+}
+.tnp-subscription-minimal form {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none;
+}
+.tnp-subscription-minimal input.tnp-email {
+	padding: 10px; border-radius: 0px; border: 1px rgb(221, 221, 221); border-image: none; width: 70%; color: rgb(68, 68, 68); line-height: 20px; font-size: 14px; display: inline-block; max-width: 300px; box-sizing: border-box; background-color: rgb(244, 244, 244);
+}
+.tnp-subscription-minimal .tnp-privacy-field {
+	margin-top: 10px;
+}
+.tnp-subscription-minimal input.tnp-submit {
+	padding: 10px; border-radius: 0px; border: 1px rgb(221, 221, 221); border-image: none; width: 29%; color: rgb(255, 255, 255); line-height: 20px; font-size: 14px; display: inline-block; box-sizing: border-box; text-shadow: none; background-image: none; background-color: rgb(68, 68, 68);
+}
+.tnp-comments {
+	clear: both; margin-top: 15px; margin-bottom: 15px;
+}
+.tnp-comments label {
+	display: block;
+}
+.tnp-comments input[type=checkbox] {
+	width: auto !important; display: inline;
+}
+.tnp-lock {
+	margin: 20px; padding: 15px; border: 1px solid rgb(221, 221, 221); border-image: none; clear: both; display: block; box-sizing: border-box; box-shadow: none; background-color: rgb(255, 255, 255);
+}
